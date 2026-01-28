@@ -1,0 +1,17 @@
+@import url("normalize.css");
+@import url("header.css");
+
+:root {
+    --fonte-principal: "Inter";
+    --branco: #FFFFFF;
+    --vermelho: #8E2424;
+    --cinza-claro: #667085;
+    --cinza-escuro: #101828;
+}
+
+body {
+    font-family: "Inter";
+    font-weight: 500;
+    font-size: 16px;
+    background: var(--branco);
+}
