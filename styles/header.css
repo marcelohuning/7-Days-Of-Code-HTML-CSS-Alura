@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    width: 85%;
+    background: var(--branco);
+}
+.logo, .paginas, .botoes {
+    display: block;
+}
+.logo {
+    width: 15%;
+}
+.paginas {
+    width: 70%;
+}
+.botoes {
+    width: 15%;
+}
