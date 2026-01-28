@@ -14,4 +14,6 @@ body {
     font-weight: 500;
     font-size: 16px;
     background: var(--branco);
+    height: 100vw;
+    width: 100%;
 }

@@ -7,26 +7,26 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/styles.css">
 </head>
 <body>
 
-    <header class="container">
+    <header>
+        <img src="assets/logo-optimustech.png" alt="Logo OptimusTech">
         <div class="logo">
-            <img src="assets/logo-optimustech.png" alt="Logo OptimusTech">
-            <h1 class="logo__nome">OptimusTech</h1>
+            <p class="logo__nome">OptimusTech</p>
         </div>
-        <nav class="paginas">
-            <ul class="menu">
-                <li class="menu__paginas"><a href="#" class="menu__link">Home</a></li>
-                <li class="menu__paginas"><a href="#" class="menu__link">Produtos</a></li>
-                <li class="menu__paginas"><a href="#" class="menu__link">Recursos</a></li>
-                <li class="menu__paginas"><a href="#" class="menu__link">Sobre nós</a></li>
-            </ul>
-        </nav>
+        <div class="menu">
+            <a href="#" class="menu__link">Home</a>
+            <a href="#" class="menu__link">Produtos</a>
+            <a href="#" class="menu__link">Recursos</a>
+            <a href="#" class="menu__link">Sobre nós</a>
+        </div>
         <div class="botoes">
-            <a href="#" class="botao__entrar">Entrar</a>
-            <input class="botao__cadastrar" type="button" value="Cadastrar">
+            <button class="btnEntrar">Entrar</button>
+            <button id="btnCadastrar">Cadastrar</button>
         </div>
     </header>
+
 </body>
 </html>
