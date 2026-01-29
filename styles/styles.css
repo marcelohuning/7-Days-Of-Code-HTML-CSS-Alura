@@ -2,7 +2,7 @@
 @import url("header.css");
 
 :root {
-    --fonte-principal: "Inter";
+    --fonte-principal: "Inter", sans-serif;
     --branco: #FFFFFF;
     --vermelho: #8E2424;
     --cinza-claro: #667085;
@@ -16,4 +16,5 @@ body {
     background: var(--branco);
     height: 100vw;
     width: 100%;
+    box-sizing: border-box;
 }

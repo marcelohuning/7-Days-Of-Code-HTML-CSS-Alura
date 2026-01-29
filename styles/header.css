@@ -1,8 +1,15 @@
-.header {
+nav {
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 1rem 0;
+}
+.logo {
+    display: flex;
+    align-items: center;
+}
+.logo img {
+    padding-right: 0.5rem;
 }
 .menu__link{
     color: var(--cinza-claro);
@@ -18,7 +25,10 @@ button {
     color: var(--cinza-claro);
     font-size: 0.9rem;
 }
-button#btnCadastrar {
+.btnEntrar {
+    border: 1px solid var(--cinza-claro);
+}
+.btnCadastrar {
     background-color: var(--vermelho);
     color: var(--branco);
 }
