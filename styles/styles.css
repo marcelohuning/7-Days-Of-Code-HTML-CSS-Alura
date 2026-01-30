@@ -2,11 +2,13 @@
 @import url("header.css");
 @import url("sobre-nos.css");
 @import url("metricas.css");
+@import url("vagas.css");
 
 :root {
     --fonte-principal: "Inter", sans-serif;
     --branco: #FFFFFF;
     --vermelho: #8E2424;
+    --vermelho-transparente: #8E24240D;
     --cinza-claro: #667085;
     --cinza-escuro: #101828;
 }

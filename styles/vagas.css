@@ -1,0 +1,29 @@
+.vagas__container {
+    padding: 6rem 5rem;
+    justify-content: center;
+    text-align: center;
+}
+.vagas__container-info {
+    font-size: 0.9rem;
+    line-height: 1.25rem;
+    color: var(--vermelho);
+    background-color: var(--vermelho-transparente);
+    padding: 0.5rem;
+    border-radius: 1rem;
+}
+.vagas__container-titulo {
+    font-weight: 600;
+    font-size: 2.25rem;
+    color: var(--cinza-escuro);
+    line-height: 2.7rem;
+}
+.vagas__container-texto {
+    font-weight: 400;
+    font-size: 1.25rem;
+    line-height: 1.9rem;
+    color: var(--cinza-claro);
+    padding-bottom: 4rem;
+}
+.vagas__container-imagem {
+    width: 90%;
+}
