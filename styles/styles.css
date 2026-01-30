@@ -1,5 +1,6 @@
 @import url("normalize.css");
 @import url("header.css");
+@import url("sobre-nos.css");
 
 :root {
     --fonte-principal: "Inter", sans-serif;

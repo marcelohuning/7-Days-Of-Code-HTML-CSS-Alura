@@ -1,0 +1,21 @@
+.sobre-nos {
+    text-align: center;
+    margin: 6rem 0;
+}
+.sobre-nos__topo {
+    font-weight: 600;
+    color: var(--vermelho);
+    padding-bottom: 1.5rem;
+}
+.sobre-nos__titulo {
+    font-size: 3rem;
+    color: var(--cinza-escuro);
+    padding-bottom: 1.5rem;
+}
+.sobre-nos__texto {
+    color: var(--cinza-claro);
+    font-weight: 400;
+    font-size: 1.25rem;
+    margin: 0 35rem;
+    line-height: 1.9rem;
+}
