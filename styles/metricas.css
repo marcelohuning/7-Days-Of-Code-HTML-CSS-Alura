@@ -1,0 +1,28 @@
+.metricas {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+    grid-column: 4;
+    width: 80%;
+    margin: 0 auto;
+}
+.metricas__projetos {
+    width: 17.5rem;
+}
+.metricas__projetos-numero {
+    font-weight: 600;
+    color: var(--vermelho);
+    font-size: 3.6rem;
+    line-height: 4.5rem;
+}
+.metricas__projetos-titulo {
+    font-size: 1.1rem;
+    color: var(--cinza-escuro);
+    line-height: 1.5rem;
+    padding: 1.2rem 0 1rem 0;
+}
+.metricas__projetos-texto {
+    font-weight: 400;
+    color: var(--cinza-claro);
+    line-height: 1.5rem;
+}
