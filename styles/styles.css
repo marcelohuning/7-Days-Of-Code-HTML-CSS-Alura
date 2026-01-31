@@ -3,6 +3,7 @@
 @import url("sobre-nos.css");
 @import url("metricas.css");
 @import url("vagas.css");
+@import url("anuncios.css");
 
 :root {
     --fonte-principal: "Inter", sans-serif;

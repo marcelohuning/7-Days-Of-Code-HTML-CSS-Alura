@@ -1,0 +1,24 @@
+.anuncios__container {
+    margin: 0 auto;
+}
+.anuncios__container-titulo {
+    color: var(--cinza-escuro);
+    line-height: 1.9rem;
+}
+.anuncio__vaga-area {
+    width: 768px;
+    border: 1px dotted var(--cinza-claro);
+}
+.anuncio__vaga-titulo {
+    line-height: 1.8rem;
+    color: var(--cinza-escuro);
+    font-size: 1.1rem;
+}
+.anuncio__vaga-periodo {
+    color: var(--cinza-claro);
+    line-height: 1.5rem;
+}
+.anuncio__vaga-salario {
+    color: var(--cinza-claro);
+    line-height: 1.5rem;
+}
