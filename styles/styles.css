@@ -4,6 +4,7 @@
 @import url("metricas.css");
 @import url("vagas.css");
 @import url("anuncios.css");
+@import url("depoimentos.css");
 
 :root {
     --fonte-principal: "Inter", sans-serif;
