@@ -25,10 +25,10 @@ button {
     color: var(--cinza-claro);
     font-size: 0.9rem;
 }
-.btnEntrar {
+button#btnEntrar {
     border: 1px solid var(--cinza-claro);
 }
-.btnCadastrar {
+button#btnCadastrar {
     background-color: var(--vermelho);
     color: var(--branco);
 }

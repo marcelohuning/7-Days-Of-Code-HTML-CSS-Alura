@@ -5,6 +5,7 @@
 @import url("vagas.css");
 @import url("anuncios.css");
 @import url("depoimentos.css");
+@import url("rodape.css");
 
 :root {
     --fonte-principal: "Inter", sans-serif;
@@ -13,6 +14,8 @@
     --vermelho-transparente: #8E24240D;
     --cinza-claro: #667085;
     --cinza-escuro: #101828;
+    --cinza-fundo: #F9FAFB;
+    --cinza-clarinho: #98A2B3;
 }
 
 body {
